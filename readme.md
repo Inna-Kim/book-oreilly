@@ -1,19 +1,25 @@
-# Учебный проект- карточка товара
+# Учебный проект- сайт Портфолио
+ 
 
-Макет сделан мной. Дизайн (PSD) и верстка (HTML, CSS). Сделан для курса обучения верстки сайтов в WebCademy.ru
+Макет сделан мной. Дизайн (PSD) и верстка (HTML, LESS, jQuery). Сделан для курса обучения верстки сайтов в WebCademy.ru
 
 ### [](https://github.com/nobleworkshop/personal-portfolio#%D1%87%D1%82%D0%BE-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8)
-**Что внутри:**
+### Что внутри:
 
-- Верстка по макету
-- Pixel Perfect
+-   Оптимизация под декстоп, смартфоны, планшеты. 3 разных разрешения.
+-   Навигация по странице, плавный page scroll
+-   Мобильная навигация
+-   Форма обратной связи (Ajax, PHP)
 
+[**Онлайн демо**](https://inna-kim.github.io/Portfolio/)
 
-[**Онлайн демо**](https://inna-kim.github.io/book-oreilly/)
-
-**Тестировать локально**
-
-```
-git clone https://github.com/Inna-Kim/book-oreilly.git
+### Тестировать локально
 
 ```
+git clone https://github.com/Inna-Kim/Portfolio.git
+
+ ```
+
+
+
+### [Тестировать на хостинге](http://inna-kim.ru/book-oreilly/docs/index.html)
